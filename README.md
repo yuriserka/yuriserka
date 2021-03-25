@@ -7,7 +7,7 @@
   />
 </p>
 
-<p style="display:flex; justify-content:space-evenly; align-items:center">
+<p align="center">
   <a href="https://www.linkedin.com/in/yuriserka/">
     <img
       alt="LinkedIn"
