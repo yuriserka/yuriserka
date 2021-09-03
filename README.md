@@ -1,5 +1,3 @@
-## Welcome
-
 <p align="center">
   <img
     src="https://img.icons8.com/ios/452/source-code.png"
@@ -12,7 +10,7 @@
     <img
       alt="LinkedIn"
       title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
   <a href="https://github.com/yuriserka">
@@ -30,8 +28,51 @@
 
 - ### 🎓 Undergraduate Computer Science student
 - ### 🧪 Knowledge on tests frameworks
+- ### 🕸 Knowledge on web development
+- ### ⚙️ Knowledge on backend development
 
 <br />
+
+# Languages
+
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+</p>
+</p>
+
+# Technologies
+
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+</p>
 
 # Github Stats
 
